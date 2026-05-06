@@ -1,0 +1,2 @@
+rootProject.name = "ACController"
+include ':app'
